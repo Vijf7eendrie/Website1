@@ -7,4 +7,3 @@ button.onclick = function(){
     navigation.style.opacity = 1;
     body.style.overflow = "hidden"
 }
-
